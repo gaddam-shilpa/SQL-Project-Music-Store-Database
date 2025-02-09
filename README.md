@@ -23,6 +23,7 @@ Common Table Expressions (CTE): Used WITH statements to simplify complex queries
 Data Integrity Constraints: Used primary keys, foreign keys, and constraints to maintain data consistency.
 
 📈 Analysis & Insights
+
 This project involved solving 15 SQL(basic to advannce) queries, each designed to extract meaningful insights from the music store database. Here’s a summary:
 
 Customer Analysis: Identified the top-paying customers and frequent buyers.
@@ -42,8 +43,11 @@ Playlist Optimization: Recommending tracks based on user preferences.
 🗂 Files in This Repository
 
 database.sql → Contains all SQL queries (schema & data).
+
 ER-diagram.png → Visual representation of the database.
+
 data.xlsx → Raw dataset used for creating tables.
+
 project-doc.docx → Contains the project questions and objectives.
 
 🚀 How to Use This Project
@@ -54,6 +58,12 @@ Modify or expand the database as needed.
 
 📌 Future Enhancements
 
+Adding stored procedures for automation.
+Creating a frontend interface for data visualization.
+
+🔗 Connect with Me
+
+If you have any feedback or suggestions, feel free to reach out! 🚀
 Adding stored procedures for automation.
 Creating a frontend interface for data visualization.
 
