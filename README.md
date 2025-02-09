@@ -42,21 +42,21 @@ Playlist Optimization: Recommending tracks based on user preferences.
 
 🗂 Files in This Repository
 
-database.sql → Contains all SQL queries (schema & data).
-ER-diagram.png → Visual representation of the database.
-data.xlsx → Raw dataset used for creating tables.
-project-doc.docx → Contains the project questions and objectives.
+SQL_Code.sql → Contains all SQL queries (schema & data).
+ER_Diagram.png → Visual representation of the database.
+Table_name.csv → Raw dataset used for creating tables.
+Queries.pdf → Contains the project questions and objectives.
 
 🚀 How to Use This Project
 
-Import database.sql into MySQL.
+Import SQL_Code.sql into MySQL.
 Run queries to analyze the data.
 Modify or expand the database as needed.
 
 📌 Future Enhancements
 
 Adding stored procedures for automation.
-Creating a frontend interface for data visualization.
+Creating a front-end interface for data visualization.
 
 🔗 Connect with Me
 
